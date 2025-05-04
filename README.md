@@ -54,7 +54,6 @@ This project is submitted for the Entertainment track of the Base Hackathon, cre
 
 ### Sponsor Technologies Used:
 - [✅] **Base:** Smart contracts for game creation, joining, NFT minting and marketplace functionality. Implemented on-chain storage for game results, NFT metadata, and player statistics.
-- [✅] **Coinbase Wallet:** Integration for seamless wallet connection and transaction signing.
 
 ---
 
@@ -85,9 +84,9 @@ This project is submitted for the Entertainment track of the Base Hackathon, cre
 ## 📽️ Demo & Deliverables
 
 - **Demo Video Link:** [Base Ping Pong Arena Demo (Youtube)](https://youtu.be/your-video-id)
-- **Live Demo:** [Deployed Link](https://base-pingpong-arena.vercel.app)
+- **Live Demo:** [Deployed Link](https://base-ping-pong-arena.vercel.app)
 - **Explorer Link:** [Contract Address (View on Basescan)](https://basescan.org/address/0x661D8753e6909EbbBeB0bd2551A0418b530eF1DF)
-- **GitHub Repository:** [Base PingPong Arena](https://github.com/your-username/Base-PingPong-Arena)
+- **GitHub Repository:** [Base PingPong Arena](https://github.com/arpit15006/Base-PingPong-Arena)
 ---
 
 ## ✅ Base Hackathon Submission
