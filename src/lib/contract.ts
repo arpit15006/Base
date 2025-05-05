@@ -2,9 +2,9 @@ import { ethers } from "ethers";
 import { toast } from "sonner";
 import { Game, MatchResult, PlayerStats, NFTAttributes, NFTListing, NFTType, Rarity } from "./types";
 
-const CONTRACT_ADDRESS = 0x661D8753e6909EbbBeB0bd2551A0418b530eF1DF
-const PROVIDER_URL = https://mainnet.base.org
-const TESTNET_PROVIDER_URL = https://sepolia.base.org
+const CONTRACT_ADDRESS = "0x661D8753e6909EbbBeB0bd2551A0418b530eF1DF"
+const PROVIDER_URL = "https://mainnet.base.org"
+const TESTNET_PROVIDER_URL = "https://sepolia.base.org"
 
 // Always use mainnet for the hackathon
 const ACTIVE_PROVIDER_URL = PROVIDER_URL;
