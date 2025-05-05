@@ -2,9 +2,9 @@ import { ethers } from "ethers";
 import { toast } from "sonner";
 import { Game, MatchResult, PlayerStats, NFTAttributes, NFTListing, NFTType, Rarity } from "./types";
 
-const CONTRACT_ADDRESS = import.meta.env.VITE_CONTRACT_ADDRESS || "0x88282cc7c75c3726c7e09e73954dc34bff8731dc"; // Will be updated after deployment
-const PROVIDER_URL = import.meta.env.VITE_PROVIDER_URL || "https://mainnet.base.org"; // Base mainnet RPC URL
-const TESTNET_PROVIDER_URL = import.meta.env.VITE_TESTNET_PROVIDER_URL || "https://sepolia.base.org"; // Base testnet RPC URL
+const CONTRACT_ADDRESS = 0x661D8753e6909EbbBeB0bd2551A0418b530eF1DF
+const PROVIDER_URL = https://mainnet.base.org
+const TESTNET_PROVIDER_URL = https://sepolia.base.org
 
 // Always use mainnet for the hackathon
 const ACTIVE_PROVIDER_URL = PROVIDER_URL;
