@@ -421,46 +421,6 @@ const Play = () => {
       toast.warning = originalToastWarning;
     }
   };
-
-  // This function is kept for reference but no longer used directly by players
-  // Admin will handle reporting results through the admin panel
-  /*
-  const handleReportResult = async (winnerAddress: string) => {
-    if (!gameId || !game) return;
-
-    try {
-      setIsReporting(true);
-      const result = await pingPongContract.reportMatchResult(gameId, winnerAddress);
-
-      // Check if this was a simulated result (non-owner user)
-      if (result && result.simulated) {
-        // Update the UI to show the game as ended locally
-        // In a real app, you would have a server that processes these results
-        console.log('Result was simulated (non-owner user)');
-        toast.success('Game result recorded locally');
-
-        // Update local state to reflect the winner
-        setGame(prev => prev ? {
-          ...prev,
-          winner: winnerAddress,
-          // Note: We don't set isFinished to true since it's not confirmed on-chain
-        } : null);
-      } else {
-        toast.success('Match result reported successfully');
-        // Refresh game data to show the updated state from the blockchain
-        loadGameDetails();
-      }
-
-      setGameEnded(true);
-    } catch (error) {
-      console.error('Error reporting match result:', error);
-      toast.error('Failed to report match result');
-    } finally {
-      setIsReporting(false);
-    }
-  };
-  */
-
   // Reference to the game container for animations
   const gameContainerRef = useRef<HTMLDivElement>(null);
 
