@@ -696,10 +696,7 @@ const Play = () => {
                       <div className="bg-yellow-500/10 text-yellow-400 p-3 rounded-md text-center">
                         <p className="font-medium">Game Result: {winner === 1 ? 'Player 1' : 'Player 2'} Won!</p>
                         <p className="text-xs mt-2">
-                          The game admin will finalize this result and transfer the staked ETH to the winner.
-                        </p>
-                        <p className="text-xs mt-1">
-                          <a href="/admin" className="text-neon-blue hover:underline" target="_blank">Admin panel</a> (contract owner only)
+                          The game is ended result and transfer of the staked ETH will be done shortly to the winner.
                         </p>
                       </div>
                     </div>
