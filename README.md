@@ -54,7 +54,7 @@ This project is submitted for the Entertainment track of the Base Hackathon, cre
 
 ### Sponsor Technologies Used:
 - [✅] **Base:** Smart contracts for game creation, joining, NFT minting and marketplace functionality. Implemented on-chain storage for game results, NFT metadata, and player statistics.
-
+![Deployment & Tranaction screenshot:](public/mainimg.jpg)
 ---
 
 ## ✨ Key Features
