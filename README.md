@@ -7,7 +7,7 @@
 ## 📌 Problem Statement
 
 **Problem Statement: Create an engaging blockchain game leveraging Base's high-performance smart contract platform for the Base Hackathon**
-
+**Built on Consumer Track**
 ---
 
 ## 🎯 Objective
@@ -16,7 +16,7 @@ Base PingPong Arena bridges the gap between traditional gaming and Web3 by creat
 
 The project serves both traditional gamers looking for new experiences and crypto enthusiasts seeking engaging applications beyond speculation. By implementing a balanced economy with peer-to-peer trading and skill-based rewards, it demonstrates Base's capabilities for gaming applications through fast transactions, low fees, and scalable smart contracts.
 
-This project is submitted for the Entertainment track of the Base Hackathon, creating a consumer-facing gaming application that leverages Base's infrastructure.
+**This project is submitted for the Consumer track of the Base Hackathon, creating a consumer-facing gaming application that leverages Base's infrastructure.**
 
 ---
 
@@ -33,13 +33,12 @@ This project is submitted for the Entertainment track of the Base Hackathon, cre
   - Creating NFTs with actual gameplay utility rather than just cosmetics
   - Designing a fair competition system with verifiable results
   - Building an intuitive UI that appeals to both traditional gamers and crypto users
-  - Migrating from another chain to Base to leverage its performance and ecosystem
-
+  
 - **Breakthroughs during development**:
   - Developed a hybrid approach for game result verification that balances on-chain integrity with user experience
   - Created an efficient attribute encoding system for on-chain NFT metadata
   - Implemented a fair admin verification system for match results with actual score display
-  - Successfully migrated the entire application to Base chain while maintaining all functionality
+  - Successfully made the entire application to Base chain while maintaining all functionality
 
 ---
 
@@ -99,7 +98,7 @@ This project is submitted for the **Consumer** track of the Base Hackathon. It m
 - [✅] **Open-source GitHub repository with all source code**
 - [✅] **Video demo with introduction, demonstration, problem statement, solution, and architecture overview**
 - [✅] **Integration with Base chain for all blockchain functionality**
-- [✅] **Proof of deployment and transactions on Base mainnet** - Contract deployed and verified at [0x661D8753e6909EbbBeB0bd2551A0418b530eF1DF](https://basescan.org/address/0x661D8753e6909EbbBeB0bd2551A0418b530eF1DF) with [successful transaction](https://basescan.org/tx/0xfb6e6e154e76373a28cbfd5930003564a20d87e2d821490d7700af22c1ac83ce)
+- [✅] **Proof of deployment and transactions on Base mainnet** - Contract deployed and verified at [0x661D8753e6909EbbBeB0bd2551A0418b530eF1DF](https://basescan.org/address/0x661D8753e6909EbbBeB0bd2551A0418b530eF1DF) with [successful transaction(Click here to view on Base explorer)](https://basescan.org/tx/0xfb6e6e154e76373a28cbfd5930003564a20d87e2d821490d7700af22c1ac83ce)
 
 ---
 
@@ -126,7 +125,6 @@ npm run dev
 ### Connecting to Base:
 1. Add Base to your wallet:
    - **Base Mainnet**: Chain ID: 8453, RPC URL: https://mainnet.base.org
-   - **Base Sepolia Testnet**: Chain ID: 84532, RPC URL: https://sepolia.base.org
 2. Get ETH on Base (through Coinbase or a bridge from Ethereum)
 3. Connect your wallet to the application
 
@@ -134,10 +132,6 @@ npm run dev
 ```bash
 # Create a .env file with your private key and API keys (see .env.example)
 cp .env.example .env
-# Edit the .env file with your details
-
-# Deploy to Base Sepolia Testnet
-npx hardhat run scripts/deploy-base.cjs --network baseTestnet
 
 # Deploy to Base Mainnet
 npx hardhat run scripts/deploy-base.cjs --network base
@@ -176,7 +170,7 @@ Building Base PingPong Arena has been an exciting journey into the intersection 
 
 The biggest challenge was implementing a fair and transparent match result verification system that balances on-chain integrity with user experience. By developing a hybrid approach with admin verification showing actual game scores, I've created a solution that maintains the benefits of blockchain while addressing its limitations.
 
-Migrating the project to Base chain was a smooth process thanks to Base's EVM compatibility and excellent developer tools. The Base ecosystem provides the perfect infrastructure for gaming applications with its fast transaction speeds, low fees, and growing user base.
+The project to Base chain was a smooth process thanks to Base's EVM compatibility and excellent developer tools. The Base ecosystem provides the perfect infrastructure for gaming applications with its fast transaction speeds, low fees, and growing user base.
 
 I believe this project demonstrates the potential of Base for gaming applications and hope it inspires more developers to build engaging, skill-based games on the blockchain. The Base Hackathon has been a great opportunity to showcase how traditional gaming experiences can be enhanced through blockchain technology.
 
