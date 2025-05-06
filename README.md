@@ -53,8 +53,9 @@ This project is submitted for the Entertainment track of the Base Hackathon, cre
 - **Hosting**: Vercel
 
 ### Sponsor Technologies Used:
-- [✅] **Base:** Smart contracts for game creation, joining, NFT minting and marketplace functionality. Implemented on-chain storage for game results, NFT metadata, and player statistics. Here is the deployment and the transaction Proof on Base mainnet:
-![Deployment & Tranaction screenshot:](public/Deploymentproof.png)
+- [✅] **Base:** Smart contracts for game creation, joining, NFT minting and marketplace functionality. Implemented on-chain storage for game results, NFT metadata, and player statistics.
+- **Here is the deployment and the transaction Proof on Base mainnet:**
+![Deployment & Tranaction screenshot:](public/Deploymetproof.png)
 ![Deployment & Tranaction screenshot:](public/Transactionproof.png)
 ---
 
@@ -92,7 +93,7 @@ This project is submitted for the Entertainment track of the Base Hackathon, cre
 
 ## ✅ Base Hackathon Submission
 
-This project is submitted for the **Entertainment** track of the Base Hackathon. It meets the following requirements:
+This project is submitted for the **Consumer** track of the Base Hackathon. It meets the following requirements:
 
 - [✅] **Functioning onchain app at a publicly accessible URL**
 - [✅] **Open-source GitHub repository with all source code**
