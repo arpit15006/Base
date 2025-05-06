@@ -98,7 +98,7 @@ This project is submitted for the **Consumer** track of the Base Hackathon. It m
 - [✅] **Open-source GitHub repository with all source code**
 - [✅] **Video demo with introduction, demonstration, problem statement, solution, and architecture overview**
 - [✅] **Integration with Base chain for all blockchain functionality**
-- [✅] **Proof of deployment and transactions on Base mainnet** - Contract deployed and verified at [0x661D8753e6909EbbBeB0bd2551A0418b530eF1DF](https://basescan.org/address/0x661D8753e6909EbbBeB0bd2551A0418b530eF1DF) with [successful transaction(Click here to view on Base explorer)](https://basescan.org/tx/0xfb6e6e154e76373a28cbfd5930003564a20d87e2d821490d7700af22c1ac83ce)
+- [✅] **Proof of deployment and transactions on Base mainnet** - Contract deployed and verified at [0x661D8753e6909EbbBeB0bd2551A0418b530eF1DF](https://basescan.org/address/0x661D8753e6909EbbBeB0bd2551A0418b530eF1DF) with [successful transaction.](https://basescan.org/tx/0xfb6e6e154e76373a28cbfd5930003564a20d87e2d821490d7700af22c1ac83ce)
 
 ---
 
