@@ -84,7 +84,7 @@ The project serves both traditional gamers looking for new experiences and crypt
 
 ## 📽️ Demo & Deliverables
 
-- **Demo Video Link:** [Base Ping Pong Arena Demo (Youtube)](https://youtu.be/your-video-id)
+- **Demo Video Link:** [Base Ping Pong Arena Demo (Youtube)](https://youtu.be/e_xN-vdxUtg)
 - **Live Demo:** [Deployed Link](https://base-ping-pong-arena.vercel.app)
 - **Explorer Link:** [Contract Address (View on Basescan)](https://basescan.org/address/0x661D8753e6909EbbBeB0bd2551A0418b530eF1DF)
 - **GitHub Repository:** [Base PingPong Arena](https://github.com/arpit15006/Base-PingPong-Arena)
