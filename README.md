@@ -158,7 +158,6 @@ npx hardhat verify --network base 0x661D8753e6909EbbBeB0bd2551A0418b530eF1DF
 - **PeerJS**: WebRTC library for peer-to-peer connections
 - **ethers.js**: Ethereum library for blockchain interactions
 - **Base Chain**: For blockchain infrastructure and smart contract deployment
-- **Coinbase Wallet**: For seamless wallet integration
 - **Hardhat**: For smart contract development and deployment
 - **Base Documentation**: For guidance on Base chain integration
 
