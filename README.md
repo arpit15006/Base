@@ -54,8 +54,8 @@ The project serves both traditional gamers looking for new experiences and crypt
 ### Sponsor Technologies Used:
 - [✅] **Base:** Smart contracts for game creation, joining, NFT minting and marketplace functionality. Implemented on-chain storage for game results, NFT metadata, and player statistics.
 - **Here is the deployment and the transaction Proof on Base mainnet:**
-![Deployment & Tranaction screenshot:](public/Deploymetproof.png)
-![Deployment & Tranaction screenshot:](public/Transactionproof.png)
+![Deployment & Tranaction screenshot:](public/Deploymetproof.jpeg)
+![Deployment & Tranaction screenshot:](public/Transactionproof.jpeg)
 ---
 
 ## ✨ Key Features
