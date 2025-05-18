@@ -112,7 +112,7 @@ This project is submitted for the **Consumer** track of the Base Hackathon. It m
 ### Local Setup:
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/Base-PingPong-Arena.git
+git clone https://github.com/arpit15006/Base.git
 
 # Install dependencies
 cd Base-PingPong-Arena
